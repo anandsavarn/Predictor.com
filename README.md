@@ -19,7 +19,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anandsavarn.vercel.app-00C896?style=for-the-badge)](https://anandsavarn.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Anandsavran-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavran)
+[![GitHub](https://img.shields.io/badge/GitHub-Anandsavarn-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavarn)
 [![Predictor.com](https://img.shields.io/badge/🚀%20Live%20Platform-predictor--65n3.onrender.com-4da6ff?style=for-the-badge)](https://predictor-65n3.onrender.com)
 
 </div>
@@ -309,7 +309,7 @@ Lovely Professional University, Punjab
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anandsavarn.vercel.app-00C896?style=for-the-badge)](https://anandsavarn.vercel.app)
 [![Predictor.com](https://img.shields.io/badge/🚀%20Predictor.com-Live%20Demo-4da6ff?style=for-the-badge)](https://predictor-65n3.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Anandsavran-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavran)
+[![GitHub](https://img.shields.io/badge/GitHub-Anandsavarn-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavarn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
 
 <br/>
